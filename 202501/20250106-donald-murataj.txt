@@ -16,5 +16,6 @@ The title should reflect the complete scope of the article, such as:
 "Step-by-Step Guide to Hosting Your Discord Bot on AWS EC2: From Setup to Deployment." 
 
 
+Someone review this article please:
 
 https://www.notion.so/How-to-Deploy-Your-Discord-Bot-on-AWS-EC2-for-24-7-Availability-17291e2d28ec80f1a101d13ef8b83c40?pvs=4
