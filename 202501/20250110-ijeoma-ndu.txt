@@ -1,0 +1,23 @@
+What is the goal of this article?
+This article is a guide to the Top 8 machine learning and AI workflow tools available on Google Coud Platform. 
+It categorizes these tools by functionality at each stage of the Ml workflow. 
+It provies an engaging overview of their features, use cases ad practical applications.
+
+What problem is it solving?
+The article offers a clear understanding of how to select and utilize the right tools for each stage of the ML workflow for GCP beginners.
+
+What key concepts are covered?
+* Google Cloud Platform
+* Vertex AI
+* Logging
+* BigQuery
+* Dataflow
+* Compute Engine
+* Cloud Composer
+* Cloud functionality
+* Dataprep
+
+
+Link to the article:
+https://www.notion.so/8-Machine-Learning-and-AI-Workflow-Tools-Available-on-Google-Cloud-Platform-GCP-174ed879cb6680daa589f45e104868dd?pvs=4
+
