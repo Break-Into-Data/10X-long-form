@@ -5,7 +5,7 @@ Description: I have written the article on top 10 most used Date functions in SQ
 I have written the functions are used most, each with code example. I have also used a dataset which I have created for this article, so you can try out by yourself. 
 
 
-Here's the Notion link: https://www.notion.so/Top-10-SQL-Date-Functions-to-Master-in-2025-1733b2cb85d6805bab4de33266271d58?pvs=4
+Here's the Notion link: https://crawling-subway-6c8.notion.site/Top-10-SQL-Date-Functions-to-Master-in-2025-1733b2cb85d6805bab4de33266271d58?pvs=4
 
 
 
