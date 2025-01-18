@@ -1,0 +1,18 @@
+What is the goal of the article?
+My article provides a beginner friendly step-by-step guide on working with tensors in PyTorch. It focuses on preprocessing and representing image data for deep learning models. My article aims to bridge the knowledge gap for beginners by demonstrating how to manipulate tensors and efficiently prepare image data for neural network training.
+
+What problem is it solving?
+My article will help a beginner understand:
+- How to represent images as tensor in PyTorch 
+- How to mainpulate tensors for preprocessing task
+- How to load and convert images into a suitable format from training neural networks using PyTorch
+
+What key concepts are explained in the article?
+My article covers the following key concepts:
+- Creating tensors
+- Understanding tensor attributes (shape, data type, and device)
+- Tensor Manipulation (Slicing and Math Operations)
+- Loading and converting an image to tensor
+
+Notion url for article: 
+https://tan-cesium-53c.notion.site/Working-with-Tensors-in-PyTorch-A-Step-by-Step-Guide-to-Image-Transformation-17581894c01d800ca7a6eaaeb3a17fa4?pvs=4
