@@ -1,0 +1,15 @@
+Goal of the Article:
+The reader will learn what AI agents are, how they differ from traditional AI models like LLMs, and explore key industry examples where AI agents are transforming business automation.
+
+Problem it is Solving:
+The article helps readers understand the increasing importance of AI agents in business automation and how they can be leveraged across different industries for complex, goal-oriented tasks. It addresses the gap in knowledge between AI agents and LLMs, providing clarity on their differences and applications.
+
+Key Concepts and How Many:
+
+Definition and core characteristics of AI agents
+How AI agents differ from LLMs
+Industry applications of AI agents (8 key examples)
+Challenges and ethical considerations
+(Total: 4 key concepts)
+
+URL:https://sideways-end-0af.notion.site/AI-Agents-Are-the-Future-of-Business-Automation-8-Industry-Examples-You-Need-to-Know-16f17834cff48091acebf94595540736
