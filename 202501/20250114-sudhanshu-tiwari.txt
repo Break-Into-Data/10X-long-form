@@ -1,0 +1,18 @@
+Title of the Article: Top 10 SQL Date Functions to Master in 2025
+
+Description: I have written the article on top 10 most used Date functions in SQL. Whether you are a beginning or seasoned professional, if you are working with SQL, then you surely would work with Dates. So SQL provides some great functions to deal with this. 
+
+I have written the functions are used most, each with code example. I have also used a dataset which I have created for this article, so you can try out by yourself. 
+
+
+Here's the Notion link: https://crawling-subway-6c8.notion.site/Top-10-SQL-Date-Functions-to-Master-in-2025-1733b2cb85d6805bab4de33266271d58?pvs=4
+
+
+
+
+
+
+
+ 
+
+
