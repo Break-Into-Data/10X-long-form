@@ -1,0 +1,14 @@
+What is the goal of this article?
+The reader will understand what a vector database is, how it is different from a traditional database, and how to set up a local vector database.
+
+What problem is it solving?
+It provides a tutorial for beginners who are new to vector databases and need an easy way to get started working with vector databases that doesn't require commercial software and Docker setups. 
+
+What key concepts are covered?
+* What a vector database is
+* The type of use case a vector database is best for
+* How a vector database is different from a traditional database
+* Setting up a local vector database
+
+Link to the article: 
+https://diagnostic-pajama-417.notion.site/Create-a-Recommendation-System-With-a-Vector-Database-in-Less-Than-10-Minutes-170c3edad21b808f8e95de2abd097382?pvs=4
