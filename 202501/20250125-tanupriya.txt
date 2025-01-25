@@ -1,0 +1,18 @@
+What is the goal of this article?
+A comprehensive guide to essential PySpark operations.
+
+Who is the target audience?
+Machine Learning Engineers and Data Engineers working with big data.
+
+What problem is it solving?
+The article provides a hands-on approach to understanding PySpark operations. Also, it can act as a cheat sheet for MLE.
+
+What key concepts are covered?
+* Foundational operations such as filter, select, where
+* Data Transformation operations such as join, broadcast, window
+* Aggregate functions
+* Tips about Performance optimisation
+
+
+Link to the article:
+https://www.notion.so/20-essential-PySpark-operations-I-use-as-a-MLE-173c05bc593680e6af24cd8a4217bdc6?pvs=4
