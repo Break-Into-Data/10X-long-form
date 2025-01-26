@@ -1,0 +1,18 @@
+What is the goal of the article?
+The reader will understand the basic of Apache Kafka, their usecases, architecture and how to run in a local machine.
+
+What problem is it solving?
+It provides an introductory guide for developers trying to understand Kafka.
+
+What key concepts and how many of them will you be covering?
+Key concepts include:
+- Kafka intro with an analogy of a coffee shop
+- Kafka Architecture: Brokers, Topics and Partitions, Producers and Consumers, and ZooKeeper or KRaft.
+- Use Cases
+- A sample program
+- Scalability, Fault Tolerance and Durability
+ 
+
+Someone Review my article in the link below please:
+
+https://www.notion.so/Introduction-to-Apache-Kafka-for-Absolute-Beginners-173181de3a268009bc03d9447461756f
