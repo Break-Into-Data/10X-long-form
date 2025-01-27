@@ -1,0 +1,26 @@
+
+What is the goal of this article?
+This article is a fantastic introduction to the world of pre-trained models for ML/AI engineers. 
+It provides a detailed step-by-step guide including code snippets that will take a reader from scartch to deployinga pretrained model.
+
+What problem is it solving?
+This article provides as step-by-step guide for beginner ML/AI Engineers to do the following:
+- Identify the right model fon Hugging Face
+- Deploy it to an Endpoint using FastAPi
+- Scale the servier with NGINX and Guiicorn
+- Push your container to Dockerhub
+- Run your container on any system with Docker installed
+
+
+What key concepts are covered?
+* Hugging Face Models
+* FastAPI
+* NGINX/gunicorn
+* LLMs
+* Docker/Dockerhub
+
+
+
+
+Notion link to article: https://www.notion.so/Deploying-Pre-Trained-Models-A-Beginner-s-Guide-to-Hugging-Face-LLMs-17bed879cb6680959d46d24bbd500cd8?pvs=4
+
