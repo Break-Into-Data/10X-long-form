@@ -1,0 +1,15 @@
+Goal of the Article:
+The reader will learn how to build and deploy an AI-powered content generator using Python, Streamlit, and Cohere's API.
+
+Problem it is Solving:
+It simplifies the process of generating high-quality written content, enabling non-technical users to automate article and blog post creation.
+
+Key Concepts and How Many:
+
+Creating and configuring a virtual environment (1)
+Integrating Cohere API for text generation (1)
+Building a Streamlit front-end (1)
+Deploying the app to Streamlit Cloud (1)
+(Total: 4 key concepts)
+
+Link to article : https://www.notion.so/Step-by-Step-Guide-to-Building-an-AI-Content-Generator-171c319a1da38020b302d1c0be2de7fe
